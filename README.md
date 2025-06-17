@@ -1,2 +1,2 @@
 # CRNN-Project
-Handwritting Recognation Poeject
+Handwritting Recognation Project
